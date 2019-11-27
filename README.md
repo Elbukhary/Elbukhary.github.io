@@ -5,7 +5,7 @@ I am Muhammad Bukhari, an active learner and contributor in data science. I have
 
 Currently I am a mechanical laboratory test engineer, yet looking for opportunities at a more demanding field.
 
-Visit [my Linkedin](https://www.linkedin.com/in/muhammad-bukhari-saifulbahri-a98a24b6/)
+Visit [my LinkedIn](https://www.linkedin.com/in/muhammad-bukhari-saifulbahri-a98a24b6/).
 
 You can use the [editor on GitHub](https://github.com/Elbukhary/Elbukhary.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
