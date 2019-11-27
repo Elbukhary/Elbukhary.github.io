@@ -1,7 +1,7 @@
 
 ## Welcome to My Portfolio Page
 
-I am Muhammad Bukhari, an active learner and contributor in data science. I have huge passion for data analytics. I make this page as my portfolio for anyone interested to see. 
+I am Muhammad Bukhari, an active learner and contributor in data science. I have huge passion for data analytics. I created this page as my portfolio for anyone interested to see. 
 
 Currently I am a mechanical laboratory test engineer, yet looking for opportunities at a more demanding field.
 
